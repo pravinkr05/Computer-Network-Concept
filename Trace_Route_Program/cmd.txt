@@ -1,0 +1,6 @@
+ifconfig
+netstat
+traceroute google.com
+ping google.com
+hostname
+nslookup google.com
